@@ -1,0 +1,11 @@
+{
+    "name": "steel_ninja/hexlet-php",
+    "description": "first hexlet project",
+    "authors": [
+        {
+            "name": "Rustam",
+            "email": "haganeninja@gmail.com"
+        }
+    ],
+    "require": {}
+}
