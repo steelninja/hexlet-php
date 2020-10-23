@@ -7,5 +7,18 @@
             "email": "haganeninja@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.0"
+    },
+    "scripts": {
+        "phpcs": "phpcs"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    }
 }
